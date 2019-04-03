@@ -1,7 +1,7 @@
 
 def levitation_quiz
 	#your code here
-	answer= 
+	answer=  "Wingardium Leviosa".chomp
 end
 
 
